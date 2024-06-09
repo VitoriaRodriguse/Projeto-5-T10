@@ -7,4 +7,4 @@ No meu projeto final, o aplicativo testado foi o Urban.Scooter, que permite aos 
 Mapa mental feito no draw.io: https://1drv.ms/u/s!AsGY1k65RQotjAR-dAsw8F0SeBiZ?e=sJMhvs
 
 
-https://miro.com/app/board/uXjVK9oX5Ig=/?share_link_id=799722156140
+
